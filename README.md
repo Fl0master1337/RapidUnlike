@@ -43,7 +43,7 @@ RapidUnlike is a script that unlikes all your liked tweets at an impressive spee
    // Configuration
    const config = {
      MAX_UNLIKES: 5500,
-     BASE_WAIT_TIME: 250,
+     BASE_WAIT_TIME: 500,
      INCREMENT_WAIT: 200,
      DECREMENT_WAIT: 50,
      RETRY_COUNT: 3,
